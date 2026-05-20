@@ -99,7 +99,7 @@
   </section>
 
   <footer class="rodape-centralizado">
-    <p>Desenvolvido por alunos do 2º ano - Concurso Agrinho Paraná 2026</p>
+    <p>Desenvolvido por aluna do 1º ano - Concurso Agrinho Paraná 2026</p>
     <small>Foco em Sustentabilidade e Preservação Ambiental</small>
   </footer>
 </body>
